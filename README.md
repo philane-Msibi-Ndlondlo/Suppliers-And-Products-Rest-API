@@ -40,7 +40,7 @@ Then the REST service is running, use [Postman](https://www.postman.com/) or oth
 
 ...* Run the REST Service: npm run start
 
-Then the REST service is running, use [Postman]() or other REST platform to send HTTP requests to get responses from the REST Service on PORT 1337.
+Then the REST service is running, use [Postman](https://www.postman.com/) or other REST platform to send HTTP requests to get responses from the REST Service on PORT 1337.
 
 ***
 

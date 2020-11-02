@@ -24,6 +24,8 @@ This is a simple REST service/API that returns a list of suppliers and their pro
 
 1. Install Mysql or Xampp [here](https://www.apachefriends.org/index.html)
 
+3. Create a database called 'suppliersandproductsdb' and import tables from this file 'suppliersandproductsdb.sql'
+
 2. Check if NodeJS was installed successfully by running this command on CMD, Git Bash or Terminal: node -v
 
 3. On  your CMD, Git Bash or Terminal:
